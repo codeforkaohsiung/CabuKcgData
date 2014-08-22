@@ -3,7 +3,9 @@ CabuKcgData
 
 高雄市民政局官網公開資料數位化
 
-
+##說明##
+- /clear : for readable data
+- /raw  : for crawler use, original data
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#" align="center">
   <a rel="license"
